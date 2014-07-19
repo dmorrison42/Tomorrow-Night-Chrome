@@ -1,6 +1,5 @@
 # Description #
-(Google Chrome)[https://www.google.com/chrome/browser/] theme for
-(Tomorrow Night)[https://github.com/chriskempson/tomorrow-theme] by (Chris Kempson)[https://github.com/chriskempson].
+[Tomorrow Night](https://github.com/chriskempson/tomorrow-theme) by [Chris Kempson](https://github.com/chriskempson) for [Google Chrome](https://www.google.com/chrome/browser/).
 
 # Roadblocks #
 Note that the default tint for the various window frame states needs to
