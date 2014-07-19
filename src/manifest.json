@@ -1,0 +1,82 @@
+{
+    "description": "Tomorrow Night Theme For Chrome (specialized for i3)",
+    "manifest_version": 2,
+    "name": "Tomorrow Night",
+    "theme": {
+        "colors": {
+            "bookmark_text": [
+                197,
+                200,
+                198
+            ],
+            "button_background": [
+                197,
+                200,
+                198,
+                1
+            ],
+            "ntp_background": [
+                29,
+                31,
+                33
+            ],
+            "ntp_text": [
+                197,
+                200,
+                198
+            ],
+            "tab_background_text": [
+                197,
+                200,
+                198
+            ],
+            "tab_text": [
+                197,
+                200,
+                198
+            ],
+            "toolbar": [
+                55,
+                59,
+                65
+            ]
+        },
+        "images": {
+            "theme_frame": "images/theme_frame.png",
+            "theme_tab_background": "images/theme_tab_background.png",
+            "theme_toolbar": "images/theme_toolbar.png"
+        },
+        "properties": {
+            "ntp_background_alignment": "bottom",
+            "ntp_background_repeat": "no-repeat"
+        },
+        "tints": {
+            "frame": [
+                0.00,
+                0.00,
+                0.00
+            ],
+            "frame_inactive": [
+                0.00,
+                0.00,
+                0.00
+            ],
+            "frame_incognito": [
+                0.00,
+                0.00,
+                0.00
+            ],
+            "frame_incognito_inactive": [
+                0.00,
+                0.00,
+                0.00
+            ],
+            "buttons": [
+                0.39,
+                0.03,
+                0.78
+            ]
+        }
+    },
+    "version": "1.0.0"
+}
